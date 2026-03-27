@@ -54,8 +54,8 @@ Laragon kontrol panelini açın. **Apache** ve **MySQL** servislerinin yanında 
 
 Web tarayıcınızı (Chrome, Edge vb.) açın ve adres çubuğuna şu yollardan birini yazın:
 
-* **Yerel Sunucu Yolu:** `http://localhost/aktarhane`
-* **Sanal Host Yolu:** `http://aktarhane.test` (Laragon otomatik tanımladıysa)
+* **Yerel Sunucu Yolu:** `http://localhost/aktar`
+* **Sanal Host Yolu:** `http://aktar.test` (Laragon otomatik tanımladıysa)
 
 ### **C. Sayfa ve Fonksiyon Kontrolü**
 
